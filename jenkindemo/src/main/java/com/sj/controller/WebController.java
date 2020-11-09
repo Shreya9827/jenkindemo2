@@ -12,5 +12,8 @@ public class WebController {
 		return "hii.. everyone";
 
 	}
+	public String sayGreet() {
+		 return "Greet ";
+	}
 
 }
